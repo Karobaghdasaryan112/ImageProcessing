@@ -1,0 +1,50 @@
+﻿2/11/2025 5:46:29 PM: Loaded effect: Blur
+2/11/2025 5:46:29 PM: Loaded effect: Resize
+2/11/2025 5:46:29 PM: Register effect name: Blur
+2/11/2025 5:46:29 PM: Register effect name: Resize
+2/11/2025 5:46:37 PM: Loaded effect: Blur
+2/11/2025 5:46:37 PM: Loaded effect: Resize
+2/11/2025 5:46:37 PM: Register effect name: Blur
+2/11/2025 5:46:37 PM: Register effect name: Resize
+2/11/2025 5:46:37 PM: Image Image1 with effect Blur added to the queue.
+2/11/2025 5:46:37 PM: Image Image2 with effect Blur added to the queue.
+2/11/2025 5:46:38 PM: Applied Blur to Image2 with parameter 10.
+2/11/2025 5:48:01 PM: Loaded effect: Blur
+2/11/2025 5:48:01 PM: Loaded effect: Resize
+2/11/2025 5:48:01 PM: Register effect name: Blur
+2/11/2025 5:48:01 PM: Register effect name: Resize
+2/11/2025 5:48:01 PM: Image Image1 with effect Blur added to the queue.
+2/11/2025 5:48:01 PM: Image Image2 with effect Blur added to the queue.
+2/11/2025 5:48:01 PM: Applied Blur to Image2 with parameter 10.
+2/11/2025 5:48:42 PM: Loaded effect: Blur
+2/11/2025 5:48:42 PM: Loaded effect: Resize
+2/11/2025 5:48:42 PM: Register effect name: Blur
+2/11/2025 5:48:42 PM: Register effect name: Resize
+2/11/2025 5:48:42 PM: Image Image1 with effect Blur added to the queue.
+2/11/2025 5:48:42 PM: Image Image2 with effect Blur added to the queue.
+2/11/2025 5:48:42 PM: Applied Blur to Image2 with parameter 10.
+2/11/2025 5:48:42 PM: Applied Blur to Image1 with parameter 5.
+2/11/2025 5:48:42 PM: Processing complete.
+2/11/2025 5:48:42 PM: No effects to undo.
+2/11/2025 5:48:42 PM: No effects to undo.
+2/11/2025 5:48:42 PM: Applied effect Blur to image Image1 with parameter 7
+2/11/2025 5:48:42 PM: Applied Blur to Image1 with parameter 7
+2/11/2025 5:48:42 PM: Applied effect Blur to image Image2 with parameter 7
+2/11/2025 5:48:42 PM: Applied Blur to Image2 with parameter 7
+2/11/2025 5:48:54 PM: Loaded effect: Blur
+2/11/2025 5:48:54 PM: Loaded effect: Resize
+2/11/2025 5:48:54 PM: Register effect name: Blur
+2/11/2025 5:48:54 PM: Register effect name: Resize
+2/11/2025 5:48:54 PM: Image Image1 with effect Blur added to the queue.
+2/11/2025 5:48:54 PM: Image Image2 with effect Blur added to the queue.
+2/11/2025 5:48:54 PM: Applied Blur to Image2 with parameter 10.
+2/11/2025 5:48:54 PM: Applied Blur to Image1 with parameter 5.
+2/11/2025 5:48:54 PM: Processing complete.
+2/11/2025 5:48:54 PM: No effects to undo.
+2/11/2025 5:48:54 PM: No effects to undo.
+2/11/2025 5:48:54 PM: Applied effect Blur to image Image1 with parameter 7
+2/11/2025 5:48:54 PM: Applied Blur to Image1 with parameter 7
+2/11/2025 5:48:54 PM: Applied effect Blur to image Image2 with parameter 7
+2/11/2025 5:48:54 PM: Applied Blur to Image2 with parameter 7
+2/11/2025 5:48:54 PM: Saved image Image1 to image1_processed.jpg
+2/11/2025 5:48:54 PM: Saved image Image2 to image2_processed.jpg

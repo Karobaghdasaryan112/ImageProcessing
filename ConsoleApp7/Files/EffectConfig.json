@@ -1,0 +1,10 @@
+﻿[
+	{
+		"Name": "Blur",
+		"Parameter": 5
+	},
+	{
+		"Name": "Resize",
+		"Parameter": 200
+	}
+]
