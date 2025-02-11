@@ -6,12 +6,10 @@ namespace ImageProcessing
 {
     public class Program
     {
-        //C:\Users\karob\source\repos\ConsoleApp7\ConsoleApp7\Program.cs
-        //C:\Users\karob\source\repos\ConsoleApp7\ConsoleApp7\Files\EffectConfig.json
+
         private static string GetFilePath(string relativePath)
         {
             var basePath = AppDomain.CurrentDomain.BaseDirectory;
-            // Папка 'Files' находится рядом с bin\Debug или bin\Release
             return Path.Combine(basePath, @"..\..\..", "Files", relativePath);
         }
 
@@ -43,10 +41,6 @@ namespace ImageProcessing
 
 
             processor.StartProcessing();
-
-
-
-
 
             image1.UndoLastEffect();
             image2.UndoLastEffect();
